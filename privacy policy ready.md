@@ -1,8 +1,8 @@
 # Privacy Policy — Run & Rifle
 
 **Last updated:** August 2, 2026
-**Developer:** [Your Name or Studio Name]
-**Contact:** [Your Contact Email]
+**Developer:** [Sean B]
+**Contact:** [run-app.pretzel596@passinbox.com]
 
 Run & Rifle ("the Game") is a single-player arcade game. This Privacy Policy explains what information is collected, used, and shared when you install and play the Game.
 
@@ -61,4 +61,4 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 ## 7. Contact Us
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 
-* **Email:** [Your Contact Email]
+* **Email:** [run-app.pretzel596@passinbox.com]
